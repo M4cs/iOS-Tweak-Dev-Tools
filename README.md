@@ -8,7 +8,7 @@
 
 ### [The Necessities](https://github.com/M4cs/iOS-Tweak-Dev-Tools/blob/master/README.md#the-necessities)
 ### [Useful Resources](https://github.com/M4cs/iOS-Tweak-Dev-Tools/blob/master/README.md#useful-resources)
-
+### [Tweak Libraries](https://github.com/M4cs/iOS-Tweak-Dev-Tools/blob/master/README.md#tweak-libraries)
 # The Necessities:
 
 Programs and Site under this chapter I consider necessary to familiarize yourseld with for tweak development if you want to take it seriously.
