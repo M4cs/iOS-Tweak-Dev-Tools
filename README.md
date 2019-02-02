@@ -7,7 +7,7 @@
 # Table of Contents:
 
 ### [The Necessities](https://github.com/M4cs/iOS-Tweak-Dev-Tools/blob/master/README.md#the-necessities)
-### [Useful Tools](https://github.com/M4cs/iOS-Tweak-Dev-Tools/blob/master/README.md#useful-tools)
+### [Useful Resources](https://github.com/M4cs/iOS-Tweak-Dev-Tools/blob/master/README.md#useful-resources)
 
 # The Necessities:
 
@@ -24,7 +24,7 @@ Programs and Site under this chapter I consider necessary to familiarize yoursel
 - [XCode: Obviously needed for any type of iOS or macOS development. You're bound to have to install XCode just to get theos running so make sure to have this if you're on a mac. It also comes with it's own text editor but it isn't that great.](https://developer.apple.com/xcode/)
 - [Atom: An electron based text editor run and maintained by GitHub. This is my 2nd favorite text editor out there and it too offers optimal plugin support and customization.](https://atom.io)
 
-# Useful Tools:
+# Useful Resources:
 
 These programs and projects under this chapter are useful in most situations but I wouldn't consider them necessary.
 
