@@ -16,3 +16,9 @@ Programs and Site under this chapter I consider necessary to familiarize yoursel
 - [Simject: A command-line tool and iOS dynamic library that allows developers to easily test their tweaks on the iOS Simulator.](https://github.com/angelXwind/simject)
 - [TheiPhoneDevWiki: Wiki site for all your questions and interests in anything to do with iPhone/Jailbreak development.](https://iphonedevwiki.net/index.php/Main_Page)
 - [StackOverflow: A great site to find answers to literally any question you have about programming. It always helps to do a google search before getting frustrated](https://stackoverflow.com)
+
+#### IDEs and Text Editors:
+
+- [Visual Studio Code: My personal favorite text editor, VSC offers a plethora of plugins and support for multiple languages. Plus it's cross-platform and works on any system.](https://code.visualstudio.com)
+- [XCode: Obviously needed for any type of iOS or macOS development. You're bound to have to install XCode just to get theos running so make sure to have this if you're on a mac. It also comes with it's own text editor but it isn't that great.](https://developer.apple.com/xcode/)
+- [Atom: An electron based text editor run and maintained by GitHub. This is my 2nd favorite text editor out there and it too offers optimal plugin support and customization.](https://atom.io)
