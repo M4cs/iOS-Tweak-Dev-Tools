@@ -35,6 +35,7 @@ These programs and projects under this chapter are useful in most situations but
 
 These following libraries are very useful when creating tweaks.
 
+- [KarenPrefs: A preference library made by angelXwind. Commonly used.](https://github.com/angelXwind/KarenPrefs)
 - [libCephei: A preference library made by the Hashbang team.](https://github.com/hbang/libcephei)
 - [libCSPreferences: A great preference library that supercharges your preferences tab.](https://github.com/CreatureSurvive/libCSPreferences)
 - [libCSColorPicker: Another great library for preferences or tweaks that allow for a color picker.](https://github.com/CreatureSurvive/libCSColorPicker)
