@@ -7,7 +7,7 @@
 # Table of Contents:
 
 ### [The Necessities](https://github.com/M4cs/iOS-Tweak-Dev-Tools/blob/master/README.md#the-necessities)
-#### - [IDEs and Text Editors]()
+#### - [IDEs and Text Editors](https://github.com/M4cs/iOS-Tweak-Dev-Tools/blob/master/README.md#ides-and-text-editors)
 
 # The Necessities:
 
