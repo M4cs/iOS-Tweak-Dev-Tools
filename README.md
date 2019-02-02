@@ -23,3 +23,10 @@ Programs and Site under this chapter I consider necessary to familiarize yoursel
 - [Visual Studio Code: My personal favorite text editor, VSC offers a plethora of plugins and support for multiple languages. Plus it's cross-platform and works on any system.](https://code.visualstudio.com)
 - [XCode: Obviously needed for any type of iOS or macOS development. You're bound to have to install XCode just to get theos running so make sure to have this if you're on a mac. It also comes with it's own text editor but it isn't that great.](https://developer.apple.com/xcode/)
 - [Atom: An electron based text editor run and maintained by GitHub. This is my 2nd favorite text editor out there and it too offers optimal plugin support and customization.](https://atom.io)
+
+# Useful Tools:
+
+These programs and projects under this chapter are useful in most situations but I wouldn't consider them necessary.
+
+- [Limneos Headers Directory: A website that will show you any header for any jailbreakable iOS at the moment. At the time of writing this it's only up to 11.1.2.](http://developer.limneos.net/index.php)
+- [Yalu10: Yalu is a great Open Source jailbreak to check out if you want to get into actually developing a jailbreak.](https://github.com/shaungall/yalu10)
